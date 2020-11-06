@@ -1,1 +1,2 @@
 this is firs comment in hello.
+This comment added by fixText.
